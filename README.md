@@ -153,12 +153,12 @@ Console output from the runs (the logger saving the CSVs, then `analyze.py`). Th
 
 <table>
 <tr>
-<th>subject02 and subject03</th>
-<th>subject01 and subject02</th>
+<th>subject02</th>
+<th>subject03</th>
 </tr>
 <tr>
-<td><img src="results/terminal_subject02_subject03.jpeg" width="420" alt="Terminal output for subject02 and subject03"></td>
-<td><img src="results/terminal_subject01_subject02.jpeg" width="420" alt="Terminal output for subject01 and subject02"></td>
+<td><img src="results/terminal_subject02_subject03.jpeg" width="420" alt="Terminal output for subject02"></td>
+<td><img src="results/subject03.jpeg" width="420" alt="Terminal output for ubject03"></td>
 </tr>
 </table>
 
