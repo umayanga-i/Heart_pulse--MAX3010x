@@ -132,8 +132,8 @@ Mean absolute difference: 0.2 bpm.
 <th>subject03: Omron reading</th>
 </tr>
 <tr>
-<td><img src="results/reference_subject02_omron.jpeg" width="300" alt="Omron HEM-7120 reading for subject02: 132/74 mmHg, pulse 73"></td>
-<td><img src="results/reference_subject03_omron.jpeg" width="300" alt="Omron HEM-7120 reading for subject03: 84/58 mmHg, pulse 78"></td>
+<td><img src="results/subject02-real.jpeg" width="300" alt="Omron HEM-7120 reading for subject02: 132/74 mmHg, pulse 73"></td>
+<td><img src="results/subject03-real.jpeg" width="300" alt="Omron HEM-7120 reading for subject03: 84/58 mmHg, pulse 78"></td>
 </tr>
 <tr>
 <td>Pulse 73 /min (SYS 132, DIA 74 mmHg)</td>
